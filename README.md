@@ -86,13 +86,13 @@ Com um app mobile desenvolvido em React Native, o garçom tem autonomia de ir as
 
 ## Tecnologias
 
-- [Node.js] (https://nodejs.org/pt-br/)
-- [TypeScript] (https://www.typescriptlang.org/)
-- [React] (https://reactjs.org/)
-- [React Native] (https://reactnative.dev/)
-- [Docker] (https://www.docker.com/)
-- [MongoDB] (https://www.mongodb.com/)
+- [Node.js](https://nodejs.org/pt-br/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Docker](https://www.docker.com/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Desenvolvedor
 
-Desenvolvido por [Vinícius Soares Lisboa] (https://github.com/ViniciusSLisboa). 👨‍💻
+Desenvolvido por [Vinícius Soares Lisboa](https://github.com/ViniciusSLisboa). 👨‍💻
