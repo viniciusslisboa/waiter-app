@@ -9,7 +9,7 @@
 <h2 align='center'>Conteúdos</h2>
 
 <p align="center">
- <a href="#comoinstalar">Como instalar</a> •
+ <a href="#como-instalar">Como instalar</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#desenvolvedor">Desenvolvedor</a>
