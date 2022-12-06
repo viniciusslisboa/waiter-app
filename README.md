@@ -9,13 +9,13 @@
 <h2 align='center'>Conteúdos</h2>
 
 <p align="center">
- <a href="#install">Como instalar</a> •
+ <a href="#comoinstalar">Como instalar</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#desenvolvedor">Desenvolvedor</a>
 </p>
 
-## Como instalar 🚀
+## Como instalar
 
 ### Backend (api)
 
@@ -78,7 +78,7 @@ ou
 3. npm start
 ```
 
-## Objetivo 💡
+## Objetivo
 
 Oferecer uma aplicação que consiga contribuir para fluidez da comunição entre o garçom e a cozinha, tornando o processo ágil, prático e simples. O cliente pede e instantâneamente o pedido é enviado para a cozinha. Sem atraso e sem demora. 
 Com um app mobile desenvolvido em React Native, o garçom tem autonomia de ir as mesas e tirar os pedidos sem medo de errar algum deles e sem precisar retornar a cozinha para levar o pedido. Já na cozinha o app web desenvolvido em React mostra em tempo real os pedidos que são enviados, podendo cancelá-los e finalizá-los com facilidade.
