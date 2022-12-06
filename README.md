@@ -24,21 +24,18 @@
 ```
 1. git clone https://github.com/ViniciusSLisboa/waiter-app.git
 2. cd api
-
 ``` 
 * Instale as dependências e inicie o servidor:
 
 ```
 3. yarn install
 4. yarn dev
-
 ``` 
 ou
 
 ```
 3. npm install
 4. npm run dev
-
 ``` 
 
 ### Frontend (react)
@@ -47,21 +44,18 @@ ou
 
 ```
 1. cd fe
-
 ``` 
 * Instale as dependências e inicie o projeto web:
 
 ```
 2. yarn install
 3. yarn dev
-
 ``` 
 ou
 
 ```
 2. npm install
 3. npm run dev
-
 ``` 
 
 ### Mobile (react native - expo)
