@@ -17,25 +17,30 @@
 
 ## Como instalar
 
+* Primeiro clone o projeto para sua máquina seguindo a instrução abaixo:
+
+```
+1. git clone https://github.com/ViniciusSLisboa/waiter-app.git
+```
+
 ### Backend (api)
 
 * Para instalar o projeto siga as instruções abaixo:
 
 ```
-1. git clone https://github.com/ViniciusSLisboa/waiter-app.git
-2. cd api
+1. cd api
 ``` 
 * Instale as dependências e inicie o servidor:
 
 ```
-3. yarn install
-4. yarn dev
+2. yarn install
+3. yarn dev
 ``` 
 ou
 
 ```
-3. npm install
-4. npm run dev
+2. npm install
+3. npm run dev
 ``` 
 
 ### Frontend (react)
